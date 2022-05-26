@@ -1,9 +1,9 @@
-import QtQuick 2.1
+import QtQuick 2.15
 import QtQuick.Controls 1.1
 import QtQuick.Dialogs 1.2
 import QtQuick.Window 2.1
 
-import UM 1.1 as UM
+import UM 1.5 as UM
 
 UM.Dialog
 {
